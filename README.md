@@ -1,7 +1,12 @@
 # The World in One Picture — Thursday, 19 November 2026
 
+[![make.fun bounty](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/konzlodon74-dot/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/konzlodon74-dot/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 An entry for the make.fun bounty **"Sum up 19 November's world news in one
-image"**.
+image"** — the bounty page is
+[make.fun/bounty/news-image-20261119](https://make.fun/bounty/news-image-20261119).
 
 `main.py` (Python, standard library only) validates the front-page image
 `entry.png` against the bounty gate — PNG/JPEG, at most 1 MiB, at most
